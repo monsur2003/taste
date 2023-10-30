@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background: rgba(180, 229, 219, 0.894);
+}
+.card-img img {
+   width: 130px;
+   height: 80px;
+}
